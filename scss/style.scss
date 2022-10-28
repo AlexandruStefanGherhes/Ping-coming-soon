@@ -195,8 +195,12 @@ body {
 
     input:first-of-type {
       width: 60%;
+      height:55px;
+      border-radius: 32px;
     }
     .submit {
+        height:55px;
+        border-radius: 32px;
       width: 30%;
       margin-top: -9px;
       font-weight: 600;

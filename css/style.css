@@ -201,8 +201,12 @@ body {
   }
   #form input:first-of-type {
     width: 60%;
+    height: 55px;
+    border-radius: 32px;
   }
   #form .submit {
+    height: 55px;
+    border-radius: 32px;
     width: 30%;
     margin-top: -9px;
     font-weight: 600;
